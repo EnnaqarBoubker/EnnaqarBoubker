@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" width="110px" /> 
+	<img src="https://komarev.com/ghpvc/?username=Boubker-Ennaqar&label=Profile%20views&color=0e75b6&style=plastic" alt="boubker's github" width="110px" /> 
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
@@ -24,7 +24,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdessalam-Elboukri&theme=algolia" alt="abdessalam" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Boubker-Ennaqar&theme=algolia" alt="boubker" /></p>
 
 <br>
 <br>
@@ -33,9 +33,9 @@
 
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me -->
 <p>
-<a href="https://www.linkedin.com/in/abdessalam-el-boukri-6b55a8213/"><img alt="Linkedin" title="abdessalam Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Abdessalam-Elboukri"><img alt="Github" title="Abdessalam Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:abdessalamelboukri1@gmail.com"><img alt="Gmail" title="abdessalam Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/Boubker-Ennaqar-6b55a8213/"><img alt="Linkedin" title="boubker Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Abdessalam-Elboukri"><img alt="Github" title="boubker Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:abdessalamelboukri1@gmail.com"><img alt="Gmail" title="boubker Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br>
