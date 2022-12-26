@@ -25,9 +25,9 @@
 
 ## 🌐 Socials:
 <p>
-<a href="https://www.linkedin.com/in/abdessalam-el-boukri-6b55a8213/"><img alt="Linkedin" title="abdessalam Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Abdessalam-Elboukri"><img alt="Github" title="Abdessalam Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:abdessalamelboukri1@gmail.com"><img alt="Gmail" title="abdessalam Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/boubker-ennaqar-74a2a3152/"><img alt="Linkedin" title="boubker Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/EnnaqarBoubker"><img alt="Github" title="Boubker Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:boubker.ennaqar55@gmail.com"><img alt="Gmail" title="boubker Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p><br><br>
 
 
